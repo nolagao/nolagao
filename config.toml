@@ -18,7 +18,7 @@ theme = "hugo-icarus-theme"
 [params]
     # Tell me who you are
     author = "芊荀"
-    bio = "学步者 - 生活家 - 潮人"
+    bio = "风一样的女孩 - 生活家 - 潮人"
     location = "上海"
     site_description = "Nola Gao's Blog"
     copyright  = "Copyright &copy; 2016 NolaGao. 保留所有权利。技术支持由 [Hugo](//gohugo.io) 提供。主题由 [PPOffice](http://github.com/ppoffice) 提供。"
