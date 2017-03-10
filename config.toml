@@ -9,6 +9,7 @@ title = "芊与芊荀"
 paginate = 10
 footnotereturnlinkcontents = "↩"
 theme = "hugo-icarus-theme"
+hasCJKLanguage = true
 
 
 [permalinks]
@@ -21,7 +22,7 @@ theme = "hugo-icarus-theme"
     bio = "风一样的女孩 - 生活家 - 潮人"
     location = "上海"
     site_description = "Nola Gao's Blog"
-    copyright  = "Copyright &copy; 2016 NolaGao. 保留所有权利。技术支持由 [Hugo](//gohugo.io) 提供。主题由 [PPOffice](http://github.com/ppoffice) 提供。"
+    copyright  = "NolaGao. 保留所有权利。技术支持由 [Hugo](//gohugo.io) 提供。主题由 [PPOffice](http://github.com/ppoffice) 提供。"
     avatar = "css/images/avatar.png"
 
     # Format dates with Go's time formatting

@@ -12,7 +12,9 @@ url = "/2017/03/05/natural-museum"
 
 <!--more-->
 
-测一
+<div style='margin:0 auto;width:0px;height:0px;overflow:hidden;'>
+<img src="https://raw.githubusercontent.com/wayneko/images/master/201604/FM_Logo.png" width='400'>
+</div>
 
 今天是我第一次去博物馆，没想到第一次去就去了一个这么棒的博物馆！
 我看 Peppa Pig 的时候，经常听 George 把他的 dinosaur 挂在嘴边，今天我终于见到真的了！我看到了脖子长长的巨型梁龙，还有凶猛可怕的霸王龙。
